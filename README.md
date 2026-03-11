@@ -1,16 +1,47 @@
-# getx_counter_demo
+getx_counter_demo
 
-A new Flutter project.
+A simple Flutter application demonstrating state management using GetX. The app contains a counter that updates dynamically when the user interacts with the interface.
 
-## Getting Started
+Features
 
-This project is a starting point for a Flutter application.
+Built using Flutter and Dart
 
-A few resources to get you started if this is your first Flutter project:
+Demonstrates GetX state management
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Interactive counter that updates UI in real time
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Simple and clean mobile UI
+
+Tech Stack
+
+Flutter
+
+Dart
+
+GetX
+
+Purpose
+
+This project was created to practice Flutter development and state management concepts while learning how reactive UI updates work in mobile applications.
+
+Learning Outcomes
+
+Understanding Flutter widget structure
+
+Implementing GetX state management
+
+Handling UI updates based on state changes
+
+Basic mobile application architecture
+
+Then your resume project entry can be:
+
+Project Name:
+GetX Counter Demo (Flutter App)
+
+Key Points
+
+• Developed a Flutter mobile application demonstrating GetX state management
+• Implemented reactive UI updates using the GetX controller pattern
+• Practiced Flutter widget architecture and state handling
+• Used GitHub for version control and project hosting
